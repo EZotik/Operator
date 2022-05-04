@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         int startingScore = 100; // сумма на счету
-        int replenishmentAmount = 1100; // сумма пополнения
+        int replenishmentAmount = 100; // сумма пополнения
         int bonus;
         int grandTotal;
 
